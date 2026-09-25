@@ -1,6 +1,6 @@
 # Electron 增量更新 · Electron Delta Updates
 
-![Version](https://img.shields.io/badge/version-0.1.2-CC785C)
+![Version](https://img.shields.io/badge/version-0.2.1-CC785C)
 
 为 Electron 应用建立并验证可恢复的增量自动更新流程。
 
